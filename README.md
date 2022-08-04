@@ -42,8 +42,8 @@ running to just try the applciation out.
 
 Couple of examples on how the project works currently:
 
-![alt text](https://github.com/Si-ja/Sorting-Algorithms-with-SFML/blob/main/Visuals/IDLEstate.png "IDLE State")
+![alt text](https://github.com/Si-ja/SortingInSFML/blob/master/Visuals/IDLEstate.png "IDLE State")
 
-![alt text](https://github.com/Si-ja/Sorting-Algorithms-with-SFML/blob/main/Visuals/SortingHappening.png "Sorting Happening")
+![alt text](https://github.com/Si-ja/SortingInSFML/blob/master/Visuals/SortingHappening.png "Sorting Happening")
 
-![alt text](https://github.com/Si-ja/Sorting-Algorithms-with-SFML/blob/main/Visuals/SortingChangedMidWay.png "Sorting Changed Mid Way")
+![alt text](https://github.com/Si-ja/SortingInSFML/blob/master/Visuals/SortingChangedMidWay.png "Sorting Changed Mid Way")
