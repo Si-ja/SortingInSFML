@@ -15,6 +15,7 @@
 *.so
 *.dylib
 *.dll
+!*x64/Release/openal32.dll
 
 # Fortran module files
 *.mod
@@ -28,6 +29,7 @@
 
 # Executables
 *.exe
+!*x64/Release/SortingInSFML.exe
 *.out
 *.app
 
