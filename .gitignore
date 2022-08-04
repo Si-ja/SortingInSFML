@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+# Extra things to ignore
+*Debug
+*.pdb
+*.log
+*.ipdb
+*.iobj
+*.recipe
+*.tlog
+*.lastbuildstate
+*.txt
+
+# Anything vs setup related
+.vs
