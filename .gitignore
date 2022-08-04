@@ -43,6 +43,7 @@
 *.tlog
 *.lastbuildstate
 *.txt
+*.exp
 
 # Anything vs setup related
 .vs
