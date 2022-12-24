@@ -17,7 +17,7 @@ namespace SortingInSFMLSortingFunctionsUnitTests
 
 		TEST_METHOD(When_TestingConditionsAreCheckedAndMapsMatch_Then_TheySucceed)
 		{
-			// Arrange
+			// Arrange Example
 			int const arraySize{ 3 };
 
 			int exampleArray1[arraySize]{ 1, 2, 3 };
